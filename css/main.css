@@ -92,6 +92,14 @@ span.fff{
   color: #ffffff;
 }
 
+h1. a1{
+  color: #cf1767;
+}
+
+div.header-logo{
+  top: 13px; 
+}
+
 a:hover,
 a:focus,
 /* a:active {
